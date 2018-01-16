@@ -1,12 +1,11 @@
 {
-  "name": "fastclick",
-  "version": "1.0.6",
+  "name": "@onsenui/fastclick",
+  "version": "1.1.0",
   "description": "Polyfill to remove click delays on browsers with touch UIs.",
   "maintainers": [
     {
-      "name": "Matthew Caruana Galizia",
-      "email": "m@m.cg",
-      "url": "http://m.cg/"
+      "name": "Onsen UI Team",
+      "url": "https://github.com/OnsenUI"
     }
   ],
   "author": {
@@ -26,7 +25,7 @@
   "main": "lib/fastclick.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ftlabs/fastclick.git"
+    "url": "git://github.com/OnsenUI/fastclick.git"
   },
   "keywords": [
     "fastclick",
@@ -45,5 +44,5 @@
   "implements": [
     "CommonJS/Modules/1.0"
   ],
-  "homepage": "https://github.com/ftlabs/fastclick"
+  "homepage": "https://github.com/OnsenUI/fastclick"
 }

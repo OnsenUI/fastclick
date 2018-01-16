@@ -1,3 +1,10 @@
+> This fork of FastClick is used by Onsen UI. Its purpose is to fix the biggest issues with FastClick, which is no longer actively maintained by FT. While no longer necessary for most browsers, FastClick is still needed by most Cordova-based apps on iOS, which is why Onsen UI continues to use it. Feel free to submit pull requests for any major bug fixes.
+>
+> You can install this fork via npm:
+> ```
+> npm install @onsenui/fastclick
+> ```
+
 # FastClick #
 
 FastClick is a simple, easy-to-use library for eliminating the 300ms delay between a physical tap and the firing of a `click` event on mobile browsers. The aim is to make your application feel less laggy and more responsive while avoiding any interference with your current logic.
